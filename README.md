@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sara AlGuwaifli!
+# 👋 Hello, I'm Sara!
 
 🎓 **MIS Graduate with First-Class Honors** from King Saud University  
 📱 **Certified iOS Developer** | 📊 **Data Scientist** | ✨ **UI/UX Designer**
@@ -11,24 +11,12 @@ I am a passionate and driven graduate with a Bachelor's degree in Management Inf
 With an entrepreneurial mindset, I thrive in dynamic environments and am always eager to learn and grow. I believe in leveraging technology to create impactful solutions that enhance user experiences and address real-world challenges.
 
 ## 💪 My Skills
-- **Programming Languages**:
-  - Swift
-  - Python
-- **Design Tools**:
-  - Figma
-  - Canva
-  - Sketch
-- **Machine Learning**: 
-  - Convolutional Neural Networks (CNN)
-  - Recurrent Neural Networks (RNN)
-  - Long Short-term Memory (LSTM)
-- **Data Visualization & Analysis**: 
-  - Exploratory Data Analysis
-  - Data Visualization
-- **UI/UX Design**: 
-  - Customer Journey Mapping
-  - Prototyping
-  - User Flow Design
+- **Programming Languages**: Swift, Python
+- **Design Tools**: Figma, Canva, Sketch
+- **Data Science**: Data Operations in Python, Data Cleaning, and Visualization.
+- **Machine Learning**: Feature Engineering, Supervised & Unsupervised Learning, Ensemble Methods, and Deep Learning.
+- **Computer Vision**: Image Segmentation, Object Detection, Optical Character Recognition (OCR).
+- **Natural Language Processing**: Transformers, Fine Tuning, Multilingual Models.
 
 ## 🌱 Current Endeavors
 - **Data Scientist Intern** at SDAIA
@@ -60,15 +48,6 @@ Developed a model to identify signs of drowsiness in drivers, aimed at enhancing
 An innovative iOS app designed to revolutionize language learning through image recognition and object detection.
 - **Technologies Used**: SwiftUI, Core ML, Figma
 - **Skills**: UI/UX Design, Swift
-
----
-
-## 📚 Machine Learning Projects & Topics
-Here are more projects and topics I've worked on:
-- **Data Science**: Data Operations in Python, Data Cleaning, and Visualization.
-- **Machine Learning**: Feature Engineering, Supervised & Unsupervised Learning, Ensemble Methods, and Deep Learning.
-- **Computer Vision**: Image Segmentation, Object Detection, Optical Character Recognition (OCR).
-- **Natural Language Processing**: Transformers, Fine Tuning, Multilingual Models.
 
 ---
 
