@@ -55,6 +55,4 @@ An innovative iOS app designed to revolutionize language learning through image 
 I love networking and collaborating with fellow tech enthusiasts! Feel free to reach out:
 - [LinkedIn Profile](https://www.linkedin.com/in/sara-alquwaifli/)
 
----
-
 Always up for a challenge and excited to learn new things! Let’s build something amazing together! 🚀
