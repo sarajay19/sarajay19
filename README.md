@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sara!
+# 👋 Hello World!, I'm Sara!
 
 🎓 **MIS Graduate** | 📱 **iOS Developer** | 📊 **Data Scientist** | ✨ **UI/UX Designer**
 
@@ -20,14 +20,12 @@ Passionate MIS graduate driven by innovation in tech. I design and develop appli
 - **iOS Developer Intern** at Apple Developer Academy
 
 ## 🌟 Recent Projects
-1. **NAJDAH**: AI camera for real-time emergency detection.
-2. **Road Damage Detection**: Automated pothole detection system.
+1. **AlamBinAllam**: AI camera for real-time emergency detection.
+2. **NAJDAH**: AI camera for real-time emergency detection.
 3. **Accidents Prediction Model**: RNN & LSTM models to forecast traffic accidents.
-4. **Driver Drowsiness Detection**: Model to identify driver fatigue.
-5. **Eyecatcher**: iOS app for language learning through image recognition.
+4. **Eyecatcher**: iOS app for language learning through image recognition.
 
 ---
 
 ## 🔗 Let's Connect!
-I'm always eager to network and collaborate!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sara-alquwaifli/)
