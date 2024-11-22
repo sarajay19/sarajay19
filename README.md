@@ -20,7 +20,7 @@ Passionate MIS graduate driven by innovation in tech. I design and develop appli
 - **iOS Developer Intern** at Apple Developer Academy
 
 ## 🌟 Recent Projects
-1. **AlamBinAllam**: AI camera for real-time emergency detection.
+1. **AlamBinAllam**: AI Arabic Tutor application that leverages the power of the Allam model and RAG from the Ministry of Education's Arabic curriculum.
 2. **NAJDAH**: AI camera for real-time emergency detection.
 3. **Accidents Prediction Model**: RNN & LSTM models to forecast traffic accidents.
 4. **Eyecatcher**: iOS app for language learning through image recognition.
