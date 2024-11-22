@@ -18,6 +18,7 @@ Passionate MIS graduate driven by innovation in tech. I design and develop appli
 ## 🌱 Current Endeavors
 - **Data Scientist Intern** at SDAIA
 - **iOS Developer Intern** at Apple Developer Academy
+- **Program Analyst Intern** at SIDF
 
 ## 🌟 Recent Projects
 1. **AlamBinAllam**: AI Arabic Tutor application that leverages the power of the Allam model and RAG from the Ministry of Education's Arabic curriculum.
