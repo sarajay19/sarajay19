@@ -24,9 +24,9 @@ Passionate MIS graduate driven by innovation in tech. I design and develop appli
 1. **AlamBinAllam**: AI Arabic Tutor application that leverages the power of the Allam model and RAG from the Ministry of Education's Arabic curriculum.
 2. **NAJDAH**: AI camera for real-time emergency detection.
 3. **Accidents Prediction Model**: RNN & LSTM models to forecast traffic accidents.
-4. **Eyecatcher**: iOS app for language learning through image recognition.
+4. **Eyecatcher**: Application for language learning through object detection.
 
 ---
 
 ## 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sara-alquwaifli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sara-alquwaifli/](https://www.linkedin.com/in/sara-alguwaifli/))
